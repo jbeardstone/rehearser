@@ -1,3 +1,3 @@
 # Typescript
 
-* branch dev-js
+* branch dev-ts
